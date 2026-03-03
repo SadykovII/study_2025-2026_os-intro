@@ -17,6 +17,9 @@ format:
   ### Pdf output format
   beamer:
     pdf-engine: xelatex
+    mainfont: "Liberation Serif"
+    sansfont: "Liberation Sans"
+    monofont: "Liberation Mono"
     toc: true
     toc-title: Содержание
     number-sections: true
@@ -29,7 +32,7 @@ format:
     csquotes: true
     indent: true
     include-in-header:
-      - file: _resources/tex/beamer.tex
+        - file: _resources/tex/beamer.tex
     #### Language
     babel-lang: russian
     babel-otherlangs: english

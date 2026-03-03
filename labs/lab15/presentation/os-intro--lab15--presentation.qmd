@@ -1,5 +1,4 @@
 ---
-## Author
 author:
   name: Дмитрий Сергеевич Кулябов
   degrees: DSc
@@ -11,7 +10,6 @@ author:
       postal-code: 117198
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
-## Title
 title: Структура научной презентации
 subtitle: Простейший вариант
 license: CC BY
